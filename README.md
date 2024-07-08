@@ -8,7 +8,7 @@ This is a solution to the [QR code component challenge on Frontend Mentor](https
 ![](./images/mobile.png)
 
 ### Links
-- Live Site URL: [https://mobile-first-solution-interactive-qr-code-display-3cj5xs6dz.vercel.app/]
+- Live Site URL: [https://mobile-first-solution-interactive-qr-code-d-asma21976s-projects.vercel.app/]
 
 ### Built with
 
